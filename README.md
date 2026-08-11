@@ -1,5 +1,7 @@
 # Duncan McCalla
 
+Here is a list of the project(s) I have cooking. They are all private right now.  You'll have to reach out to me for access.  If you know me then you already know how to do that.  
+
 ## BigFix Health Check
 
 [BigFix-Health-Check](https://github.com/dmccalla/BigFix-Health-Check) is the primary repository for the BigFix Health Check workflow, including evidence collection guidance, report generation, scoring, and validation assets. The Report Builder is part of the Health Check and turns collected evidence into the customer-facing assessment report.
