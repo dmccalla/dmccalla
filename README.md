@@ -1,16 +1,23 @@
-## Hi there 👋
+# Duncan McCalla
 
-<!--
-**dmccalla/dmccalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## BigFix Health Check
 
-Here are some ideas to get you started:
+[BigFix-Health-Check](https://github.com/dmccalla/BigFix-Health-Check) is the primary repository for the BigFix Health Check workflow, including evidence collection guidance, report generation, scoring, and validation assets. The Report Builder is part of the Health Check and turns collected evidence into the customer-facing assessment report.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Modules
+
+- Report Builder
+- Evidence Collection
+- Deployment Overview
+- Deployment Health Dashboard
+- Findings Injection
+- Scoring
+- Client Loop Analysis
+- Server Log Analysis
+- Performance Charts
+- Capacity Analysis
+- Client Settings Suggestions
+
+## BigFix Hub
+
+[BigFix](https://github.com/dmccalla/BigFix) is the navigation hub for related BigFix projects, notes, and tools.
