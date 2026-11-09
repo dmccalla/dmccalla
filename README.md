@@ -2,7 +2,7 @@
 
 `BIGFIX ARCHITECT` · `CONSULTANT` · `BUILDER`
 
-Some years ago I started my career in networking, working on DOCSIS cable modem systems and interoperability testing at 3Com. I went on to run my own IT services company before moving into corporate IT and cybersecurity.
+I started my career in networking, working on DOCSIS cable modem systems and interoperability testing at 3Com. I went on to run my own IT services company before moving into corporate IT and cybersecurity.
 
 These days I'm a BigFix Solution Architect working on the AVP team at HCLSoftware, after several years at IBM.
 
