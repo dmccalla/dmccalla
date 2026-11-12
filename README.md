@@ -1,6 +1,6 @@
 # Duncan McCalla
 
-`BIGFIX ARCHITECT` · `CONSULTANT` · `BUILDER`
+## `BIGFIX ARCHITECT` · `CONSULTANT` · `BUILDER`
 
 I started in networking, working on DOCSIS cable modem systems and beta testing at 3Com. I went on to run my own IT services company before moving into corporate IT and cybersecurity.
 
