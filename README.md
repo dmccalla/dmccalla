@@ -48,6 +48,7 @@ A trimmed-down public version that I created for and presented to attendees of t
 
 **A few examples**
 
-- **Media & entertainment** — BigFix team lead on a very cool BigFix ↔ ServiceNow integration for critical-server patching.
-- **Health insurance** — BigFix technical lead on a migration from WSUS to BigFix for Windows server patching, along with a *nix server-hardening project.
-- **Federal government** — Senior-level BigFix architecture and technical advisory work across a diverse range of deployment scales and security profiles.
+- **Media & entertainment** - BigFix Focal on a very cool and cutting edge BigFix ↔ ServiceNow integration project for critical-server patching.
+- **Health insurance** - BigFix Technical Lead on a migration from WSUS to BigFix for Windows server patching along with a follow-on project for *nix server hardening and compliance.
+- **Banking & finance** - BigFix Lead and Project Manager for design and implementation of multi-OS patching procedures along with a follow-on project to implement server compliance controls at a large regional bank. I was there so long I had my own office and employee badge.
+- **Federal government** - Senior-level BigFix architecture and technical advisory work across a diverse range of deployment scales and security profiles.
